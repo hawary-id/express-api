@@ -95,4 +95,4 @@ This will return a list of 10 random users with the data manipulated as describe
 ```
 ## License
 
-Proyek ini dilisensikan di bawah [MIT license](https://opensource.org/licenses/MIT).
+This project is licensed under the MIT License. [MIT license](https://opensource.org/licenses/MIT).
