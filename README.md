@@ -46,7 +46,7 @@ Follow these steps to set up the project locally:
 ## Usage
 Once the server is running, you can access the API by visiting the following URL in your browser or Postman:
 ```bash
-    [npm start](http://localhost:3000/manipulate-data
+    http://localhost:3000/manipulate-data
 ```
 
 ### Example
