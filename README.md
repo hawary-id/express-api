@@ -16,37 +16,37 @@ This project is an example of an Express.js server that fetches data from the [r
 ### 1. Clone Reposity
 Follow these steps to set up the project locally:
 ```bash
-    https://github.com/hawary-id/express-api.git
+https://github.com/hawary-id/express-api.git
 ```    
 
 ### 2. Navigate to the project directory:
 ```bash
-    cd express-api
+cd express-api
 ```
 
 ### 3. Install Dependencies:
 ```bash
-    mpm install
+npm install
 ```
 
 ### 6.Install nodemon (optional, if not globally installed):
 ```bash
-    npm install nodemon --save-dev
+npm install nodemon --save-dev
 ```
 
 ### 7. Start the server:
 ```bash
-    npm run dev
+npm run dev
 ```
 
 ### 8. If you want to run the server without auto-restart, use:
 ```bash
-    npm start
+npm start
 ```
 ## Usage
 Once the server is running, you can access the API by visiting the following URL in your browser or Postman:
 ```bash
-    http://localhost:5000/manipulate-data
+http://localhost:5000/manipulate-data
 ```
 
 ### Example
