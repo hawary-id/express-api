@@ -16,7 +16,7 @@ This project is an example of an Express.js server that fetches data from the [r
 ### 1. Clone Reposity
 Follow these steps to set up the project locally:
 ```bash
-https://github.com/hawary-id/express-api.git
+git clone https://github.com/hawary-id/express-api.git
 ```    
 
 ### 2. Navigate to the project directory:
