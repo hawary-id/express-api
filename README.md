@@ -84,7 +84,7 @@ This will return a list of 10 random users with the data manipulated as describe
 
 ## Project Structure
 ```bash
-   express-api-project/
+   express-api/
     │
     ├── node_modules/          # Dependencies
     ├── package.json           # Project metadata and scripts
